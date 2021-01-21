@@ -1,3 +1,3 @@
-HyperparametersTuner
+# HyperparametersTuner
 
-https://git.heroku.com/hyperparameters-tuner-noah.git
+https://hyperparameters-tuner-app-noah.herokuapp.com/
